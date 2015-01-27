@@ -1,6 +1,6 @@
 TaaraNode Ethernet Proto
 ========================
 
-TaaraNode Ethernet Proto
+Arduino/JeeNode compatible microcontroller board with on-board Ethernet, RFM12b radio and prototyping area
 
-[Official WebSite](https://taaralabs.eu/ep1)
+[WebSite](https://taaralabs.eu/ep1)
